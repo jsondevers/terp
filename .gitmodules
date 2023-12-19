@@ -4,3 +4,15 @@
 [submodule "cmsc818e"]
 	path = cmsc818e
 	url = https://github.com/jsondevers/cmsc818e
+[submodule "cmsc131"]
+	path = cmsc131
+	url = https://github.com/jsondevers/cmsc131
+[submodule "cmsc132"]
+	path = cmsc132
+	url = https://github.com/jsondevers/cmsc132
+[submodule "cmsc416"]
+	path = cmsc416
+	url = https://github.com/jsondevers/cmsc416
+[submodule "cmsc330"]
+	path = cmsc330
+	url = https://github.com/jsondevers/cmsc330
