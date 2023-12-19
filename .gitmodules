@@ -16,3 +16,9 @@
 [submodule "cmsc330"]
 	path = cmsc330
 	url = https://github.com/jsondevers/cmsc330
+[submodule "cmsc320"]
+	path = cmsc320
+	url = https://github.com/jsondevers/cmsc320
+[submodule "cmsc216"]
+	path = cmsc216
+	url = https://github.com/jsondevers/cmsc216
