@@ -1,0 +1,6 @@
+[submodule "cmsc417"]
+	path = cmsc417
+	url = https://github.com/jsondevers/cmsc417
+[submodule "cmsc818e"]
+	path = cmsc818e
+	url = https://github.com/jsondevers/cmsc818e
